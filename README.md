@@ -1,4 +1,4 @@
-# EDA-for-SYNTHEA-data-in-the-OMOP-schema
+# EDA for SYNTHEA data in the OMOP schema
 Objective:
 
 ● Explore the SYNTHEA data in the OMOP schema (data format)
